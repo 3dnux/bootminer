@@ -1,0 +1,10 @@
+{
+  "bitcoin": {
+    "pool": "xmr.bitcoin:3000",
+    "wallet": "Biha03jkfkkdf03mfmd032k"
+  },
+  "dogcoin": {
+    "pool": "xmr.bitcoin:34243",
+    "wallet": "kldsaksdkadkmasd"
+  }
+}
